@@ -1,0 +1,9 @@
+n=(int)(input())
+while(n>0):
+    n-=1
+    a=(int)(input())
+    if(a<1500):
+        sum1=2*a
+    else:
+        sum1=0.98*a+a+500
+    print("%.2f"%sum1)

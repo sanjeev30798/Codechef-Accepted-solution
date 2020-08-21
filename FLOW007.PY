@@ -1,0 +1,9 @@
+n=(int)(input())
+while(n>0):
+    n-=1
+    a=(int)(input())
+    s=0
+    while(a!=0):
+        s=s*10+a%10
+        a//=10
+    print(s)
