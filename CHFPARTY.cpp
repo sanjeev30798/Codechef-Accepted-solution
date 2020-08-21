@@ -1,10 +1,5 @@
 #include <bits/stdc++.h>
 #define ll long long int
-#define ul unsigned long long int
-#define vl vector<long long int>
-#define pb push_back
-#define ii pair<int, int>
-#define vii vector<ii>
 #define mod 1000000007
 #define IOS ios::sync_with_stdio(0); cin.tie(0); cout.tie(0); //fast IO
 using namespace std;
